@@ -1,4 +1,4 @@
-# Unprotected admin functionality with unpredictable URL
+# Unprotected Admin Functionality with Unpredictable URL
 
 > Category : Access Control
 
